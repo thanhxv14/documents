@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: workflow-camunda-service
+
+server:
+  port: 8180
